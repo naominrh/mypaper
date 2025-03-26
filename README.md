@@ -12,7 +12,7 @@ bing bong
 
 ## Discussion
 In future research, all experiments need to be repeated a million more times to reach conclusive results. 
-
+Further research on this topic seems futile. I am cooked.
 ## References
 Me, myself and I (2025)
 Also me
