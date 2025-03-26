@@ -6,6 +6,7 @@ My attempt at writing a paper via git, which seems quite unusual and not intuiti
 ## Materials and Methods
 
 ## Results
+bing bong
 
 ## Discussion
 In future research, all experiments need to be repeated a million more times to reach conclusive results. 
