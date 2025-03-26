@@ -10,3 +10,4 @@ My attempt at writing a paper via git, which seems quite unusual and not intuiti
 ## Discussion
 
 ## References
+Me, myself and I (2025)
