@@ -11,8 +11,11 @@ ding dong
 bing bong
 
 ## Discussion
+
 In future research, all experiments need to be repeated a million more times to reach conclusive results. 
 Further research on this topic seems futile. I am cooked.
+This is an ongoing process and I hope it'll reach a conclusion soon
+
 ## References
 Me, myself and I (2025)
 Also me
